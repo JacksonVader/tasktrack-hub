@@ -1,0 +1,17 @@
+{
+  "name": "TaskTrack",
+  "short_name": "TaskTrack",
+  "description": "Track your assignments and never miss a deadline",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2a9d8f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
